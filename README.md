@@ -2,5 +2,4 @@
 
 🎓 **Mahasiswa Teknik Informatika**  
 💻 **Web Development | Cyber Security Enthusiast**  
-📍 Indonesia
-Pembweb2 Semester 2
+📍 Pembweb2 Semester 2
